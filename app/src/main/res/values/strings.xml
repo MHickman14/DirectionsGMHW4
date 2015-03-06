@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DirectionsGMHW4</string>
+    <string name="title_activity_maps_activity_directions">Map</string>
+    <string name="from">Textview</string>
+    <string name="to">Textview</string>
+    <string name="load_directions">Textview</string>
+    <integer name="create_account_pane_column_count"/>
+</resources>
